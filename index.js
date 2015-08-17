@@ -1,0 +1,1 @@
+console.log("hello npm  1.0.2");
