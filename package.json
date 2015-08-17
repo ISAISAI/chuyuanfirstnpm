@@ -1,11 +1,25 @@
 {
   "name": "chuyuanfirstnpm",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "this is  a test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ISAISAI/chuyuanfirstnpm.git"
+  },
+  "author": {
+    "name": "chuyuan.wu",
+    "email": "wujia_84123@126.com"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "readme": "this is a test read me",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/ISAISAI/chuyuanfirstnpm/issues"
+  },
+  "homepage": "https://github.com/ISAISAI/chuyuanfirstnpm",
+
   "license": "ISC"
 }
